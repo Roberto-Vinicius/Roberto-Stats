@@ -1,4 +1,4 @@
-### Olá, Eu sou o Roberto Vinicius!!
+### Olá, Eu sou Roberto Vinicius!!
 <div align = "center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberto-Vinicius&show_icons=true&theme=cobalto&include_all_commits=true&count_private=true"/>
 </div>
