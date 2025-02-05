@@ -1,29 +1,63 @@
-<h1 align="center"> Hello World, I'm Roberto Vinicius!! </h1>
+## ☀️ Olá, meu nome é Roberto Vinicius!
 
-<div align = "center" >
-  <a href="https://github.com/Roberto-Vinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberto-Vinicius&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-Vinicius&layout=compact&langs_count=7&theme=github_dark"/>    
+---
+
+## 📖 Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Engenharia da Computação no UFRN.
+- 💼 Trabalhando como Spring boot e Angular na SESAP.
+- 🌱 Aprendendo mais sobre Docker.
+
+## 💼 Minhas Skills
+
+**Aplicações e dados**
+
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="40px"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40px" />
 </div>
 
-<div style="display: inline_block" ><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-              
-  <img>
-</div>
 
-  ##
-  
-<div>
-  <a href="https://www.instagram.com/r_suiciniv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rbt.negocios@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/roberto-vinicius-503963218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
 
-</div>
-  
-  ##
-  
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Roberto-Vinicius&theme=github_dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-Vinicius&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+## 🌍 Onde me encontrar
+<p align="center">
+    <a href="mailto:robertodantas1030@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/SEU-INSTAGRAM" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
