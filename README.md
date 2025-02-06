@@ -5,7 +5,7 @@
 ## 📖 Sobre mim
 
 - 🤔 Sou aficionado por todo tipo de tecnologia.
-- 🎓 Estudando Engenharia da Computação no UFRN.
+- 🎓 Estudando Engenharia da Computação na UFRN.
 - 💼 Trabalhando como Spring boot e Angular na SESAP.
 - 🌱 Aprendendo mais sobre Docker.
 
@@ -68,14 +68,8 @@
 --- 
 
 ## 🌍 Onde me encontrar
-<p align="center">
-    <a href="mailto:robertodantas1030@gmail.com" title="Gmail">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Gmail" width="30px"/>
-    </a>
+<p align="left">
     <a href="https://www.linkedin.com/in/robertoviniciusd" title="LinkedIn">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px"/>
-    </a>
-    <a href="https://www.instagram.com/robertovinicius0" title="Instagram">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30px"/>
     </a>
 </p>
